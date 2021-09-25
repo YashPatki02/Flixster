@@ -30,7 +30,7 @@ Walkthrough for Portrait Orientation:
 
 Walkthrough for Landscape Orientation:
 
-<img src="walkthrough-landscape.gif" width=250><br>
+<img src="walkthrough-landscape.gif" width=750><br>
 
 ### Notes
 I had some trouble understanding the structure of the RecyclerView, Adatper, and ViewHolder but after reading the documentation and watching the videos more than once, I seem to grasp it better. 
